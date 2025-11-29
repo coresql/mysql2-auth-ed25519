@@ -9,7 +9,7 @@ The code provided is a fork from
 ## Installation
 
 ```bash
-npm install @corejs/mysql2-auth-ed25519
+npm install @coresql/mysql2-auth-ed25519
 ```
 
 ## Usage
